@@ -52,13 +52,6 @@ I specialize in Laravel, REST APIs, role-based systems, multi-organization archi
 
 ---
 
-## 📊 GitHub Stats
-
-![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=umair261&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umair261&layout=compact&theme=dark)
-
----
 
 ## 📫 Contact
 - 💼 Upwork: [(Your Link)](https://www.upwork.com/freelancers/~01f405164d77470321)
