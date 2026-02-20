@@ -55,7 +55,7 @@ I specialize in Laravel, REST APIs, role-based systems, multi-organization archi
 
 ## 📫 Contact
 - 💼 Upwork: https://www.upwork.com/freelancers/~01f405164d77470321
-- 📧 Email: umair918sharif@email.com
+- 📧 Email: umair918sharif@gmail.com
 
 ---
 
