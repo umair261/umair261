@@ -1,217 +1,120 @@
-<div align="center">
+# 👋 Muhammad Umair Sharif
 
-# 👋 Hi, I'm Muhammad Umair Sharif
+### Senior Laravel Developer | PHP Backend Engineer | SaaS & REST API Specialist
 
-### 🚀 Senior Laravel Developer | PHP Backend Engineer | SaaS & REST API Specialist
+Senior Laravel Developer with **5+ years of experience** building scalable SaaS platforms, REST APIs, CRM/ERP systems, custom business applications, and automation solutions.
 
-**Building scalable SaaS platforms, REST APIs, CRM/ERP systems, and business automation solutions.**
+I specialize in **Laravel architecture, PHP backend development, API integrations, MySQL optimization, multi-tenant applications, and production system maintenance.**
 
-<br>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00C7B7?style=for-the-badge)](https://umair.creativewebdevs.com)
-[![Upwork](https://img.shields.io/badge/Upwork-Available_for_Work-14A800?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-umair261-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umair261)
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://umair.creativewebdevs.com)
+[![Upwork](https://img.shields.io/badge/Upwork-View_Profile-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f405164d77470321)
+[![GitHub](https://img.shields.io/badge/GitHub-umair261-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/umair261)
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Laravel Developer with 5+ years of experience** building and maintaining production-ready web applications.
+I build and maintain production-ready web applications with a strong focus on **performance, scalability, security, and maintainable architecture**.
 
-My primary focus is **Laravel, PHP, SaaS development, REST APIs, CRM/ERP systems, third-party integrations, and business automation**.
+My work includes developing applications from scratch as well as taking ownership of existing Laravel codebases, debugging complex issues, implementing new features, integrating third-party services, and improving application performance.
 
-I work with startups, agencies, and businesses to transform requirements into secure, scalable, and maintainable software.
+### What I primarily work on
 
-I enjoy both building applications from scratch and taking ownership of existing codebases that need new features, integrations, debugging, optimization, or long-term maintenance.
-
----
-
-## 🎯 Core Expertise
-
-<table>
-<tr>
-<td width="50%">
-
-### ⚙️ Laravel & Backend
-
-- Custom Laravel Applications
-- Laravel SaaS Development
-- REST API Development
-- Multi-Tenant Architecture
-- Authentication & Authorization
-- Laravel Queues & Jobs
-- Events & Listeners
-- Webhooks
-- Laravel Livewire
-- Filament Admin Panels
-
-</td>
-<td width="50%">
-
-### 🏢 Business Applications
-
-- SaaS Platforms
-- CRM Systems
-- ERP Solutions
-- Admin Dashboards
-- Business Automation
-- Subscription Systems
-- Customer Portals
-- Vendor Portals
-- Payment Systems
-- API-Driven Applications
-
-</td>
-</tr>
-</table>
+- 🚀 **Laravel SaaS Applications** — Multi-tenant platforms, subscriptions, dashboards and business workflows
+- 🔗 **REST API Development** — Secure APIs, webhooks and third-party integrations
+- 🏢 **CRM & ERP Systems** — Custom business management and automation platforms
+- 💳 **Payment Integrations** — Stripe, PayPal and custom payment workflows
+- 🤖 **AI Integrations** — OpenAI APIs, AI-powered workflows and automation
+- ⚡ **Performance Optimization** — MySQL queries, Redis caching, queues and background jobs
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-## ⚙️ Backend Development
+**Backend**
 
-<p>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Specialization:** Laravel Architecture • MVC • REST APIs • SaaS • Multi-Tenancy • Authentication • Queue Jobs • Webhooks • Background Processing
+**Frontend**
 
----
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-## 🎨 Frontend Development
+**Database & Caching**
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-<img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
----
+**APIs & Integrations**
 
-## 🗄️ Databases & Performance
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
+**DevOps & Tools**
 
-I work with:
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-- Database Architecture
-- Eloquent ORM
-- Query Optimization
-- Database Indexing
-- Redis Caching
-- Data Migration
-- Performance Tuning
-- Scalable Database Design
+**CMS**
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 
 ---
 
-## 🔌 APIs & Third-Party Integrations
+## 💼 Development Experience
 
-<p>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" />
-<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+### Laravel & SaaS Development
+Custom Laravel applications, SaaS platforms, multi-tenant architecture, authentication systems, role-based permissions, subscriptions, queues, scheduled jobs, and complex business workflows.
 
-### Integration Experience
+### REST APIs & Integrations
+RESTful API development, API authentication, webhooks, Stripe, PayPal, Twilio, OpenAI, EasyPost, UPS, USPS and other third-party integrations.
 
-- 💳 Stripe
-- 💰 PayPal
-- 📱 Twilio
-- 🤖 OpenAI API
-- 🔥 Firebase
-- 📦 EasyPost
-- 🚚 UPS
-- 📮 USPS
-- 🔗 REST APIs
-- 🪝 Webhooks
-- ⚡ Business Automation Workflows
+### Database Engineering
+MySQL and PostgreSQL database design, Eloquent optimization, complex queries, indexing, Redis caching, migrations and performance tuning.
+
+### Application Maintenance
+Taking ownership of existing applications, understanding legacy codebases, resolving production issues, implementing features and improving architecture without unnecessary rewrites.
 
 ---
 
-## ☁️ DevOps & Development Tools
+## 🚀 Selected Work
 
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-## 🌐 WordPress & WooCommerce
-
-<p>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-</p>
-
-Alongside Laravel development, I also work with:
-
-- Custom WordPress Development
-- WooCommerce
-- Elementor
-- Plugin & Theme Customization
-- WordPress API Integration
-- Bug & Error Fixing
-- Performance Optimization
-- Malware & Security Issues
+| Project | Focus |
+|---|---|
+| [ErrorHandle AI](https://errorhandle.ai) | AI-powered web application |
+| [MJ Clones](https://mj-clones.com) | Custom web platform |
+| [Food Sources Qatar](https://foodsourcesqatar.com) | Business platform |
+| [Food Art Recruitment](https://foodartrecruitment.com) | Recruitment platform |
+| [JoinToMart Jobs](https://jobs.jointomart.com) | Jobs & recruitment system |
 
 ---
 
-# 🚀 What I Build
+## 📈 GitHub
 
-### 🧩 Laravel SaaS Applications
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umair261&show_icons=true&hide_border=true&theme=github_dark)
 
-Scalable SaaS platforms including subscriptions, multi-tenancy, user management, permissions, billing, dashboards, and business workflows.
-
-### 🔗 REST APIs & Integrations
-
-Secure REST APIs and integrations connecting Laravel applications with payment gateways, AI services, shipping providers, communication platforms, and external systems.
-
-### 🏢 CRM & ERP Systems
-
-Custom business management platforms for customers, employees, inventory, operations, reporting, accounting workflows, and internal automation.
-
-### 🤖 AI & Business Automation
-
-Integration of OpenAI and automation services into existing business applications to automate repetitive workflows and improve operational efficiency.
-
-### 📊 Admin Dashboards
-
-Custom dashboards with authentication, role-based permissions, analytics, reporting, data management, and complex business workflows.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umair261&layout=compact&hide_border=true&theme=github_dark)
 
 ---
 
-# 💡 Engineering Focus
+## 🤝 Available For
 
-```text
-✓ Clean & Maintainable Architecture
-✓ Secure Backend Development
-✓ Scalable SaaS Architecture
-✓ RESTful API Design
-✓ Database Performance
-✓ Role & Permission Systems
-✓ Multi-Tenant Applications
-✓ Payment Gateway Integration
-✓ Third-Party API Integration
-✓ Business Process Automation
-✓ Production Debugging
-✓ Long-Term Maintainability
+**Laravel Development** · **PHP Development** · **SaaS Development** · **REST APIs** · **CRM/ERP Systems** · **API Integrations** · **Business Automation** · **Application Maintenance**
+
+📌 **Portfolio:** https://umair.creativewebdevs.com  
+📌 **Upwork:** https://www.upwork.com/freelancers/~01f405164d77470321  
+📌 **GitHub:** https://github.com/umair261
