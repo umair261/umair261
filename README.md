@@ -1,62 +1,86 @@
-# 🚀 Muhammad Umair Sharif
+# Muhammad Umair Sharif
 
-### 💼 Full Stack Laravel Developer | Backend Specialist | Freelance Developer
+### Senior Laravel Developer | SaaS & API Development | Backend Engineering
 
----
+Senior Laravel Developer with 5+ years of experience building and maintaining production web applications, SaaS platforms, REST APIs, CRM/ERP systems, and business automation solutions.
 
-## 👨‍💻 About Me
-I am a Full Stack Developer with 5+ years of experience building scalable web applications and backend systems.  
-I specialize in Laravel, REST APIs, role-based systems, multi-organization architectures, and performance optimization.
+I focus on scalable backend architecture, clean Laravel development, API integrations, database performance, and reliable production systems.
 
 ---
 
-## ⚙️ Core Technologies
-- Laravel (Advanced Application Architecture)
-- PHP & MySQL
-- RESTful API Development
-- JavaScript & jQuery
-- Bootstrap
-- Inertia
-- React
-- Git & GitHub
-- WordPress
+## Core Expertise
 
----
-
-## 🏗 Engineering Focus
-- Clean MVC Architecture
-- Role & Permission Systems
-- Multi-Tenant Applications
+- Laravel & PHP Development
+- SaaS Application Development
+- REST API Development & Integration
+- Multi-Tenant Architecture
+- CRM & ERP Development
+- Business Automation Systems
 - Payment Gateway Integration
+- MySQL & PostgreSQL Optimization
+- Laravel Queues, Jobs & Events
+- Authentication & Role/Permission Systems
+- Legacy Application Maintenance
 - Performance Optimization
-- Database Design & Query Optimization
 
 ---
 
-## 🏆 Professional Highlights
-- 5+ Years Experience
-- Freelance Developer
-- Real Client-Based Projects
-- Strong Backend Architecture Skills
+## Tech Stack
+
+**Backend:** Laravel, PHP, REST APIs, Node.js  
+**Frontend:** JavaScript, React.js, Vue.js, Blade, Livewire  
+**Database:** MySQL, PostgreSQL, Redis  
+**Integrations:** Stripe, PayPal, Twilio, OpenAI, UPS, USPS, EasyPost  
+**DevOps & Tools:** Git, GitHub, Docker, Linux, AWS  
+**CMS:** WordPress, WooCommerce
 
 ---
 
-## 🚀 Tech Stack Badges
+## What I Build
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-
-## 📫 Contact
-- 💼 Upwork: https://www.upwork.com/freelancers/~01f405164d77470321
-- 📧 Email: umair918sharif@gmail.com
+- Multi-Tenant SaaS Platforms
+- Custom Laravel Applications
+- REST API Backends
+- CRM & ERP Systems
+- Admin & Analytics Dashboards
+- Subscription & Billing Systems
+- API-Driven Applications
+- AI-Powered Business Workflows
+- Customer & Vendor Portals
+- Business Process Automation
 
 ---
 
-⭐ Always building scalable systems, not just writing code.
+## Development Approach
+
+I prefer understanding the business problem and existing architecture before writing code.
+
+My priorities are:
+
+- Clean and maintainable code
+- Secure application architecture
+- Scalable database design
+- Performance and reliability
+- Clear communication
+- Production-ready delivery
+
+---
+
+## Professional Experience
+
+**5+ Years in Web Application Development**
+
+Experienced in both building applications from scratch and taking ownership of existing production codebases.
+
+I regularly work with complex Laravel applications involving APIs, payment systems, third-party services, background jobs, database optimization, and business-critical workflows.
+
+---
+
+## Let's Connect
+
+**Upwork:** YOUR_UPWORK_LINK  
+**Portfolio:** YOUR_PORTFOLIO_LINK
+
+---
+
+> Building software that solves business problems — not just writing code.
