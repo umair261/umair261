@@ -11,28 +11,26 @@ My main stack is **Laravel, PHP, MySQL, REST APIs, JavaScript, React/Vue, Redis,
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/umairjutt261)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/umair261)
 
----
 
 ## 👨‍💻 About Me
 
 I'm a **Senior Laravel Developer with 5+ years of professional experience** working on production web applications for startups, agencies, and businesses.
 
-Laravel/PHP is my primary backend stack. A large part of my work involves taking business requirements and turning them into practical application workflows — dashboards, APIs, permissions, payment systems, reporting, automation, and integrations.
+Laravel/PHP is my primary backend stack. A large part of my work involves taking business requirements and turning them into practical application workflows including dashboards, APIs, permissions, payment systems, reporting, automation, and integrations.
 
 I'm also comfortable joining an existing project, understanding an unfamiliar codebase, tracing bugs across controllers, services, databases and APIs, and adding features without unnecessarily rebuilding working parts of the system.
 
 ### 🎯 Main Areas I Work In
 
-- 🚀 **Laravel SaaS Applications** — Multi-tenancy, subscriptions, dashboards, permissions, queues and business workflows
-- 🔗 **REST APIs** — API development, authentication, webhooks, integrations and data synchronization
-- 🎓 **LMS Platforms** — Courses, curriculum, quizzes, grading, instructors and student workflows
-- 🏢 **CRM & ERP Systems** — Customers, employees, inventory, operations, reporting and internal workflows
-- 💳 **Payments** — Stripe, PayPal, subscriptions, checkout flows and payment webhooks
-- 🤖 **AI Integration** — OpenAI APIs and AI-assisted business workflows
-- ⚡ **Performance & Maintenance** — MySQL optimization, Redis, queues, debugging and legacy applications
-- 🌐 **WordPress** — WooCommerce, Elementor, custom PHP, APIs, performance and troubleshooting
+* 🚀 **Laravel SaaS Applications:** Multi tenancy, subscriptions, dashboards, permissions, queues and business workflows
+* 🔗 **REST APIs:** API development, authentication, webhooks, integrations and data synchronization
+* 🎓 **LMS Platforms:** Courses, curriculum, quizzes, grading, instructors and student workflows
+* 🏢 **CRM & ERP Systems:** Customers, employees, inventory, operations, reporting and internal workflows
+* 💳 **Payments:** Stripe, PayPal, subscriptions, checkout flows and payment webhooks
+* 🤖 **AI Integration:** OpenAI APIs and AI assisted business workflows
+* ⚡ **Performance & Maintenance:** MySQL optimization, Redis, queues, debugging and legacy applications
+* 🌐 **WordPress:** WooCommerce, Elementor, custom PHP, APIs, performance and troubleshooting
 
----
 
 # 🛠️ Tech Stack & Skills
 
@@ -43,7 +41,7 @@ I'm also comfortable joining an existing project, understanding an unfamiliar co
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Laravel Architecture · MVC · REST APIs · SaaS · Multi-Tenancy · Authentication · Authorization · Queues · Jobs · Events · Webhooks**
+**Laravel Architecture · MVC · REST APIs · SaaS · Multi Tenancy · Authentication · Authorization · Queues · Jobs · Events · Webhooks**
 
 ### 🎨 Frontend
 
@@ -89,7 +87,6 @@ I'm also comfortable joining an existing project, understanding an unfamiliar co
 
 **Custom WordPress Development · WooCommerce · Elementor · Plugin Customization · API Integration · Performance Optimization · Bug Fixing**
 
----
 
 # 🚀 What I Build & Work On
 
@@ -99,39 +96,38 @@ Most of my Laravel work involves applications with real business workflows behin
 
 I've worked on systems involving:
 
-- Multi-tenant architecture
-- User roles and granular permissions
-- Subscription and billing workflows
-- Customer and vendor portals
-- Course and LMS management
-- Recruitment workflows
-- Internal administration systems
-- Reporting and analytics
-- Notifications and scheduled processes
-- Background queues and jobs
+* Multi tenant architecture
+* User roles and granular permissions
+* Subscription and billing workflows
+* Customer and vendor portals
+* Course and LMS management
+* Recruitment workflows
+* Internal administration systems
+* Reporting and analytics
+* Notifications and scheduled processes
+* Background queues and jobs
 
 A typical application might use **Laravel/PHP for the backend, MySQL for transactional data, Redis for caching or queues, and REST APIs/webhooks for external services**.
 
 I also work on existing SaaS products where new functionality needs to fit into an established architecture without disrupting existing users or workflows.
 
----
 
-## 🔗 REST APIs & Third-Party Integrations
+## 🔗 REST APIs & Third Party Integrations
 
 API development and integration is a regular part of my Laravel work.
 
 I've developed and maintained integrations involving:
 
-- **Stripe** payment and subscription flows
-- **PayPal** payments and callbacks
-- **Twilio** messaging and notifications
-- **OpenAI** APIs and AI-powered features
-- **EasyPost** shipping workflows
-- **UPS & USPS** shipping APIs
-- External REST APIs
-- Token-based authentication
-- Webhook processing
-- Data synchronization between applications
+* **Stripe** payment and subscription flows
+* **PayPal** payments and callbacks
+* **Twilio** messaging and notifications
+* **OpenAI** APIs and AI powered features
+* **EasyPost** shipping workflows
+* **UPS & USPS** shipping APIs
+* External REST APIs
+* Token based authentication
+* Webhook processing
+* Data synchronization between applications
 
 Integration work isn't always about adding a new API.
 
@@ -139,36 +135,34 @@ I've also worked on existing integrations where payments suddenly stopped workin
 
 In those situations, I trace the request from the application through the API and database to find the actual failure instead of replacing the whole integration.
 
----
 
 ## 🎓 LMS & Course Management Systems
 
-I've worked extensively on **Laravel-based LMS and course management functionality**, including existing systems with complex instructor, student and administration workflows.
+I've worked extensively on **Laravel based LMS and course management functionality**, including existing systems with complex instructor, student and administration workflows.
 
 Features I've developed or maintained include:
 
-- Multi-step course creation
-- Save-as-draft and publishing workflows
-- Course curriculum management
-- Modules and sections
-- Lectures and learning content
-- Single and multiple-choice quizzes
-- Assignments
-- Question management
-- Gradebooks
-- Grading workflows
-- Announcements
-- Course discussions
-- Instructor/course assignments
-- Student enrollment workflows
-- Role and permission management
-- File and media uploads
+* Multi step course creation
+* Save as draft and publishing workflows
+* Course curriculum management
+* Modules and sections
+* Lectures and learning content
+* Single and multiple choice quizzes
+* Assignments
+* Question management
+* Gradebooks
+* Grading workflows
+* Announcements
+* Course discussions
+* Instructor and course assignments
+* Student enrollment workflows
+* Role and permission management
+* File and media uploads
 
 This type of development often involves working inside a large existing Laravel codebase.
 
-Before making changes, I trace the existing controllers, routes, database relationships, Blade/JavaScript logic and session workflows so that new functionality fits into the current application rather than creating a second implementation alongside it.
+Before making changes, I trace the existing controllers, routes, database relationships, Blade/JavaScript logic and session workflows so that new functionality fits into the current application rather than creating another implementation alongside it.
 
----
 
 ## 🏢 CRM, ERP & Internal Business Systems
 
@@ -176,27 +170,26 @@ I've worked on custom systems designed to replace workflows that businesses were
 
 Typical modules include:
 
-- Customer management
-- Employee management
-- Vendor management
-- Inventory
-- Orders
-- Transactions
-- Invoices
-- Recruitment workflows
-- User roles and permissions
-- Reports
-- Operational dashboards
-- Approval processes
-- Internal notifications
-- Search and filtering
-- Data exports
+* Customer management
+* Employee management
+* Vendor management
+* Inventory
+* Orders
+* Transactions
+* Invoices
+* Recruitment workflows
+* User roles and permissions
+* Reports
+* Operational dashboards
+* Approval processes
+* Internal notifications
+* Search and filtering
+* Data exports
 
 For these projects, understanding the business process comes before deciding the database structure.
 
 A technically correct application isn't useful if it doesn't match how the business actually operates.
 
----
 
 ## 🤖 AI & Business Automation
 
@@ -204,20 +197,19 @@ I integrate AI into existing applications where it can solve an actual workflow 
 
 My experience includes:
 
-- OpenAI API integration
-- AI-assisted content processing
-- Automated data handling
-- AI-powered features inside Laravel applications
-- API-driven automation workflows
-- Connecting application data with AI services
-- Automating repetitive administrative tasks
-- Processing structured and unstructured content
+* OpenAI API integration
+* AI assisted content processing
+* Automated data handling
+* AI powered features inside Laravel applications
+* API driven automation workflows
+* Connecting application data with AI services
+* Automating repetitive administrative tasks
+* Processing structured and unstructured content
 
 I also use AI development tools such as **Claude, ChatGPT and GitHub Copilot** during development for code analysis, debugging and repetitive tasks.
 
 Architecture decisions, implementation, code review and final testing remain part of my development process.
 
----
 
 ## 💳 Payments, Subscriptions & Ecommerce
 
@@ -225,21 +217,20 @@ I've worked with payment workflows across custom Laravel applications and ecomme
 
 This includes:
 
-- Stripe integrations
-- PayPal integrations
-- Subscription billing
-- Custom checkout flows
-- Payment callbacks
-- Webhooks
-- Transaction handling
-- Payment status synchronization
-- WooCommerce payment workflows
+* Stripe integrations
+* PayPal integrations
+* Subscription billing
+* Custom checkout flows
+* Payment callbacks
+* Webhooks
+* Transaction handling
+* Payment status synchronization
+* WooCommerce payment workflows
 
 I've also taken over projects where an existing payment gateway stopped working.
 
-That normally involves tracing requests, checking API responses and logs, validating credentials, reviewing callback/webhook handling, and identifying whether the failure is in the application, configuration, or payment provider integration.
+That normally involves tracing requests, checking API responses and logs, validating credentials, reviewing callback and webhook handling, and identifying whether the failure is in the application, configuration, or payment provider integration.
 
----
 
 ## 📊 Admin Panels & Operational Dashboards
 
@@ -247,26 +238,25 @@ Many of the applications I work on require custom administration interfaces buil
 
 I've developed dashboards and administration tools for:
 
-- User management
-- Role and permission management
-- Course administration
-- Customer management
-- Vendor management
-- Orders and transactions
-- Reports and analytics
-- Content management
-- Approval workflows
-- Search and advanced filtering
-- Pagination
-- Notifications
-- System configuration
-- Import/export functionality
+* User management
+* Role and permission management
+* Course administration
+* Customer management
+* Vendor management
+* Orders and transactions
+* Reports and analytics
+* Content management
+* Approval workflows
+* Search and advanced filtering
+* Pagination
+* Notifications
+* System configuration
+* Import and export functionality
 
 Depending on the project, I work with **Laravel Blade, Livewire, JavaScript, Bootstrap, Tailwind CSS, React or Vue.js**.
 
 I normally follow the application's existing frontend stack rather than introducing another framework unnecessarily.
 
----
 
 ## ⚡ Existing Applications, Debugging & Performance
 
@@ -282,7 +272,6 @@ Typical work includes:
 
 I prefer improving an existing architecture where possible rather than rewriting working functionality simply because the codebase is unfamiliar.
 
----
 
 ## 🌐 WordPress & WooCommerce
 
@@ -290,23 +279,22 @@ Laravel is my primary development stack, but I also work on WordPress when a pro
 
 I've handled:
 
-- Custom WordPress development
-- WooCommerce customization
-- Elementor development
-- PHP errors
-- JavaScript issues
-- Plugin and theme conflicts
-- Custom API integrations
-- Payment gateway problems
-- Performance optimization
-- Website migrations
-- Malware cleanup
-- Security fixes
-- Existing website troubleshooting
+* Custom WordPress development
+* WooCommerce customization
+* Elementor development
+* PHP errors
+* JavaScript issues
+* Plugin and theme conflicts
+* Custom API integrations
+* Payment gateway problems
+* Performance optimization
+* Website migrations
+* Malware cleanup
+* Security fixes
+* Existing website troubleshooting
 
-This is especially useful on projects where **WordPress/WooCommerce is the public-facing website while Laravel or another API handles custom backend functionality**.
+This is especially useful on projects where **WordPress/WooCommerce is the public facing website while Laravel or another API handles custom backend functionality**.
 
----
 
 # 🧠 Engineering Focus
 
@@ -316,13 +304,13 @@ This is especially useful on projects where **WordPress/WooCommerce is the publi
 ✓ Scalable SaaS Applications
 ✓ RESTful API Design
 ✓ Database Design & Optimization
-✓ Multi-Tenant Architecture
+✓ Multi Tenant Architecture
 ✓ Authentication & Authorization
 ✓ Role & Permission Systems
 ✓ Payment Gateway Integration
-✓ Third-Party API Integration
+✓ Third Party API Integration
 ✓ Queue & Background Processing
 ✓ Business Process Automation
 ✓ Existing Codebase Maintenance
 ✓ Production Debugging
-✓ Long-Term Maintainability
+✓ Long Term Maintainability
